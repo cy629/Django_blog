@@ -1,0 +1,2 @@
+# Django_blog
+Django_blog_system学习django尝试的一个博客项目
